@@ -1,11 +1,13 @@
 body {
-	background-color: black;
+	background-color: pink;
 }
-
-@media all and (min-width: 480px){
+@media screen and (min-width: 480px){
 	body {
-        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCKbV24ga18bP0XAVCXwmYaZ6v_BEPauuG8eCcSg4H3cIkMcw5_A);
+    background-image: url(http://grza.net/GIS/Animals/Cats%20Kittens/Kitten%20Sleeping%20Satin.jpg);
     }
 }
 div.kitten-gallery {
+	background-color
 	float: left;
+	}	;
+}
